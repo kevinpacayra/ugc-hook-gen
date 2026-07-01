@@ -1,0 +1,54 @@
+
+!!! ERROR !!!
+Message: 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CcXXchZq4uo1J17wgxr11"}
+Code: undefined
+Full: {
+  "status": 400,
+  "headers": {},
+  "requestID": "req_011CcXXchZq4uo1J17wgxr11",
+  "error": {
+    "type": "error",
+    "error": {
+      "type": "invalid_request_error",
+      "message": "Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+    },
+    "request_id": "req_011CcXXchZq4uo1J17wgxr11"
+  },
+  "type": "invalid_request_error"
+}
+
+!!! ERROR !!!
+Message: 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CcXZhHAkgu78z2uN4KXAM"}
+Code: undefined
+Full: {
+  "status": 400,
+  "headers": {},
+  "requestID": "req_011CcXZhHAkgu78z2uN4KXAM",
+  "error": {
+    "type": "error",
+    "error": {
+      "type": "invalid_request_error",
+      "message": "Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+    },
+    "request_id": "req_011CcXZhHAkgu78z2uN4KXAM"
+  },
+  "type": "invalid_request_error"
+}
+
+!!! ERROR !!!
+Message: 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CcXa5xunvmwz6hUsXyvxb"}
+Code: undefined
+Full: {
+  "status": 400,
+  "headers": {},
+  "requestID": "req_011CcXa5xunvmwz6hUsXyvxb",
+  "error": {
+    "type": "error",
+    "error": {
+      "type": "invalid_request_error",
+      "message": "Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+    },
+    "request_id": "req_011CcXa5xunvmwz6hUsXyvxb"
+  },
+  "type": "invalid_request_error"
+}
